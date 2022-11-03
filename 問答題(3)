@@ -1,0 +1,7 @@
+##Internet Protocol Address (IP address) 網際網路協定位址。
+- An IP address serves two main functions: network interface identification and location addressing.
+-IP位址有兩個主要功能：ˋ標識ˋ裝置或網路和ˋ定址ˋ。
+
+## Internet Control Message Protocol(ICMP)網際網路控制訊息協定
+-It is used by network devices, including routers, to send error messages and operational information indicating success or failure when communicating with another IP address.
+-ICMP被用來在與另一個IP位址通信時ˋ發送錯誤訊息ˋ和指示成功或失敗的操作訊息。
