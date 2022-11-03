@@ -5,9 +5,16 @@
 ##User Datagram Protocol (UDP)用戶數據報協議
 -UDP used to send messages (transported as datagrams in packets) to other hosts on an Internet Protocol (IP) network. 
 -UDP用於向Internet 協議(IP) 網絡上的其他主機發送消息（作為數據包中的數據報傳輸）。
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 
-
-
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ##TCP three-way handshaking(三項交握)
 - syn->syn-ack->ack
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+##TCP syn flood attack syn洪水攻擊
+-TCP syn flood attack can take down high-capacity devices capable of maintaining millions of connections.
+- syn洪水攻擊 可以摧毀能夠維持數百萬個連接的高容量設備。
+
+A SYN flood is a type of TCP State-Exhaustion Attack  that attempts to consume the connection state tables present in many infrastructure components.
+SYN 洪水攻擊是一種ˋTCP 狀態耗盡攻擊ˋ，它試圖ˋ消耗ˋ許多基礎設施組件中存在的ˋ連接狀態表ˋ。
