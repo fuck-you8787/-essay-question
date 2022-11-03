@@ -3,7 +3,11 @@
 -TCP在通過 IP 網絡通信的ˋ主機上ˋ運行的ˋ應用程序之間ˋ提供ˋ可靠的ˋ、ˋ有序的ˋ和ˋ經過錯誤檢查ˋ的ˋ八位位組（字節）流傳輸ˋ。
 
 ##User Datagram Protocol (UDP)用戶數據報協議
--
--
+-UDP used to send messages (transported as datagrams in packets) to other hosts on an Internet Protocol (IP) network. 
+-UDP用於向Internet 協議(IP) 網絡上的其他主機發送消息（作為數據包中的數據報傳輸）。
+
+
+
+
 ##TCP three-way handshaking(三項交握)
 - syn->syn-ack->ack
