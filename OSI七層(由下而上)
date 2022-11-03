@@ -1,0 +1,21 @@
+##Physical Layer
+Physical Layer在區域網路上傳送ˋ資料框ˋ。
+-Physical Layer負責管理ˋ電腦通訊裝置ˋ和ˋ網路媒體ˋ之間的ˋ互通ˋ。
+
+##Data Link  Layer
+-Data Link Layer負責ˋ網路尋址ˋ、ˋ錯誤偵測ˋ和ˋ改錯ˋ。
+
+##Network Layer
+-Network Layer決定數據的ˋ路徑選擇ˋ和ˋ轉寄ˋ。
+
+##Transport Layer
+-Transport Layer把ˋ傳輸表頭（TH）ˋ加至ˋ資料ˋ以ˋ形成封包ˋ。
+
+##Session Layer
+-Session Layer負責在數據傳輸中ˋ設定ˋ和ˋ維護ˋ電腦網路中兩台電腦之間的ˋ通訊連接ˋ。
+
+##Presentation Layer
+-Presentation Layer把ˋ數據轉換為ˋ能與接收者的系統格式ˋ相容並適合ˋ傳輸ˋ的格式ˋ。
+
+##Application Layer
+-Application Layerˋ提供ˋ為應用軟體而設計的ˋ介面ˋ。
