@@ -33,9 +33,6 @@ DNS 中包含的ˋ資源記錄ˋ將ˋ域名ˋ與ˋ其他形式ˋ的ˋ信息相�
 
 ## Domain Name System Security Extensions(DNSsec)域名系统安全擴展。
  
-DNSSEC is a suite of extension specifications. 
-DNSSEC是一套擴展規範。
-
 DNSSEC securing data exchanged in the DNS in IP networks.
 DNSSEC用於ˋ保護ˋ在 Internet 協議 (IP) 網絡中的DNS中交換的ˋ數據ˋ。
 
