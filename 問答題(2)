@@ -6,8 +6,9 @@
 -UDP used to send messages (transported as datagrams in packets) to other hosts on an Internet Protocol (IP) network. 
 -UDP用於向Internet 協議(IP) 網絡上的其他主機發送消息（作為數據包中的數據報傳輸）。
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-
+Reliable:TCP
+Unreliable:UDP
+因為TCP有錯誤檢查和修正的功能；UDP則無。
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ##TCP three-way handshaking(三項交握)
 - syn->syn-ack->ack
