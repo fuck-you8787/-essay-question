@@ -9,7 +9,7 @@ Physical Layer在區域網路上傳送ˋ資料框ˋ。
 -Network Layer決定數據的ˋ路徑選擇ˋ和ˋ轉寄ˋ。
 
 ##Transport Layer
--Transport Layer把ˋ傳輸表頭（TH）ˋ加至ˋ資料ˋ以ˋ形成封包ˋ。
+-Transport Layer把ˋ傳輸表頭（TH）ˋ加至ˋ資料ˋ形成ˋ封包ˋ。
 
 ##Session Layer
 -Session Layer負責在數據傳輸中ˋ設定ˋ和ˋ維護ˋ電腦網路中兩台電腦之間的ˋ通訊連接ˋ。
