@@ -1,10 +1,10 @@
 **由下而上排序
-1. Network Access(Hardware Layer、Data Link Layer) 
+1. Network Access(Physical Layer、Data Link Layer) 
 2. Internet
 3. Transport
 4. Application(Seesion、Presentation、Application)
 ##Another version of TCP/IP
-1. Hardware Layer
+1.Physical Layer
 2. Data Link Layer
 3. Internet
 4. Transport
