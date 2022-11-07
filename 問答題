@@ -75,7 +75,7 @@ FTP using separate control and data connections between the client and the serve
 ## Secure File Transfer Protocol(SFTP)安全文件傳輸協議。
 
 SFTP provides file access, file transfer, and file management over any reliable data stream. 
-SFTP可以通過任何可靠的ˋ數據流ˋ提供文件ˋ訪問ˋ、文件ˋ傳輸ˋ和文件ˋ管理ˋ。
+SFTP可以通過任何可靠的ˋ數據流ˋ提供文件的ˋ訪問、ˋ傳輸ˋ和ˋ管理ˋ。
  
 SFTP is an extension of the Secure Shell protocol (SSH) version 2.0.  
 SFTP是SSH ˋ2.0 版ˋ的ˋ擴展ˋ。 
