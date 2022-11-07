@@ -11,7 +11,7 @@ Unreliable:UDP
 因為TCP有錯誤檢查和修正的功能；UDP則無。
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ##TCP three-way handshaking(三項交握)
-- syn(client)->syn-ack(server)->ack(client)
+- syn(client) -> syn、ack(server) -> ack(client)
 '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ##TCP syn flood attack syn洪水攻擊
 -TCP syn flood attack can take down high-capacity devices capable of maintaining millions of connections.
