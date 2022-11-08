@@ -26,12 +26,13 @@
    # proxy
      -Application Layer
 ## TCP/IP有那些層?寫出與OSI七層模型的對應!
-   **由下而上排序
+   **由最底層往上排序
    1. Link(Physical Layer、Data Link Layer) 
    2. Internet
    3. Transport
    4. Application(Seesion、Presentation、Application)
-   **Another version of TCP/IP
+   
+  Another version of TCP/IP
    1. Physical Layer
    2. Data Link Layer
    3. Internet
@@ -82,9 +83,9 @@
      -有主動和被動模式。
    # sftp
      -Secure File Transfer Protocol安全文件傳輸協議。
-     -SFTP是SSH 的ˋ2.0 版ˋ
-     -SFTP可以通過可靠的ˋ數據流ˋ提供檔案的ˋ訪問、ˋ傳輸ˋ和ˋ管理ˋ。
-     -SFTP提供ˋ安全ˋ的ˋ文件傳輸ˋ功能。
+     -是SSH 的ˋ2.0 版ˋ
+     -可以通過可靠的ˋ數據流ˋ提供檔案的ˋ訪問、ˋ傳輸ˋ和ˋ管理ˋ。
+     -提供ˋ安全ˋ的ˋ文件傳輸ˋ功能。
      -利用 SSH，故也稱為 安全殼檔案傳輸協定。
    # smtp
      -Simple Mail Transfer Protocol 簡單郵件傳輸協議 
@@ -121,9 +122,9 @@
      -reliable:TCP
      -unreliable:UDP
    # TCP three-way handshaking(三項交握)
-     -syn(client-server) 
-     -> syn、ack(server-client) 
-     -> ack(client-server)
+     1.syn(client-server) 
+     2.syn、ack(server-client) 
+     3. ack(client-server)
    # TCP syn flood attack
      -SYN洪水攻擊。
      -分佈式拒絕服務的攻擊。
