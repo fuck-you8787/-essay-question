@@ -49,7 +49,7 @@
      -Hypertext Transfer Protocol Secure安全超文本傳輸協議。
      -是HTTP的擴展。
      -用於計算機網絡上的ˋ安全通信ˋ。
-     -目的是提供對網站伺服器的身份認證，保護交換資料的私隱與完整性。
+     -目的是提供對網站伺服器的身份認證，保護交換資料的隱私與完整性。
      -在Internet上，被廣泛使用。
    # DNS 
      -Domain Name System 域名系統。
