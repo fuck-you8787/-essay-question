@@ -44,7 +44,7 @@
      -一種用於分佈式、協作式和超媒體訊息系統。
      -是全球資訊網的數據通信的基礎。
      -最初目的是為了提供一種發布和接收HTML頁面的方法。
-     -透過HTTP或者HTTPS協定請求的資源由URI來標識。
+     -透過HTTP或者HTTPS請求的資源由URI標識。
    # HTTPS
      -Hypertext Transfer Protocol Secure安全超文本傳輸協議。
      -是HTTP的擴展。
