@@ -1,19 +1,26 @@
 ## OSI有七層?簡述其功能
    # Physical Layer
-     -Physical Layer在區域網路上傳送ˋ資料框ˋ。
-     -Physical Layer負責管理ˋ電腦通訊裝置ˋ和ˋ網路媒體ˋ之間的ˋ互通ˋ。
+     -實體層。
+     -在區域網路上傳送資料框。
+     -管理電腦通訊裝置和網路媒體間的互通。
    # Data Link  Layer
-     -Data Link Layer負責ˋ網路尋址ˋ、ˋ錯誤偵測ˋ和ˋ改錯ˋ。
+     -數據層。
+     -負責網路尋址、錯誤偵測和改錯。
    # Network Layer     
-     -Network Layer決定數據的ˋ路徑選擇ˋ和ˋ轉寄ˋ。
+     -網路層。
+     -決定數據的路徑選擇和轉寄。
    # Transport Layer
-     -Transport Layer把ˋ傳輸表頭（TH）ˋ加至ˋ資料ˋ形成ˋ封包ˋ。
+     -傳輸層。
+     -把傳輸表頭（TH）加至資料形成封包。
    # Session Layer
-     -Session Layer負責在數據傳輸中ˋ設定ˋ和ˋ維護ˋ兩台電腦之間的ˋ通訊連接ˋ。
+     -會議層。
+     -負責在數據傳輸中設定和維護兩台電腦間的通訊連接。
    # Presentation Layer
-     -Presentation Layer把ˋ數據轉換為ˋ能與接收者的系統格式ˋ相容並適合ˋ傳輸ˋ的格式ˋ。
+     -表現層。
+     -把數據轉換成能與接收者的系統格式相容並適合傳輸的格式。
    # Application Layer
-     -Application Layerˋ提供ˋ為應用軟體而設計的ˋ介面ˋ。
+     -應用層。
+     -ˋ提供為應用軟體而設計的介面。
 ## 底下網路設備運作在哪一層? Hub, switch,router, L4-switch, proxy
    # Hub
      -Physical Layer
@@ -40,16 +47,16 @@
    5. Application(Seesion、Presentation、Application)
 ## 簡述底下應用層協定(英文全名與簡單功能說明):
    # HTTP
-     -HyperText Transfer Protocol 超文本傳輸協定
-     -一種用於分佈式、協作式和超媒體訊息系統。
+     -HyperText Transfer Protocol 超文本傳輸協定。
+     -用於分佈式、協作式和超媒體訊息系統。
      -是全球資訊網的數據通信的基礎。
-     -最初目的是為了提供一種發布和接收HTML頁面的方法。
+     -最初是為了提供一種發布和接收HTML頁面的方法。
      -透過HTTP或者HTTPS請求的資源由URI標識。
    # HTTPS
      -Hypertext Transfer Protocol Secure安全超文本傳輸協議。
      -是HTTP的擴展。
-     -用於計算機網絡上的ˋ安全通信ˋ。
-     -目的是提供對網站伺服器的身份認證，保護交換資料的隱私與完整性。
+     -用於計算機網絡上的安全通信。
+     -提供對網站伺服器的身份認證，保護交換資料的隱私與完整性。
      -在Internet上，被廣泛使用。
    # DNS 
      -Domain Name System 域名系統。
@@ -65,27 +72,27 @@
      -保護應用程式免受不當操縱的DNS數據所造成的影響。
    # Telnet 
      -Telnet 遠程登入協定。
-     -使用於ˋ網際網路ˋ及ˋ區域網ˋ中。
-     -提供ˋ雙向ˋ且以ˋ文字字串ˋ為主的ˋ命令列介面ˋ互動功能。
+     -使用於網際網路及區域網中。
+     -提供雙向且以文字字串為主的命令列介面。
      -使用ˋ虛擬終端機ˋ的形式。
      -屬於TCP/IP協議族。
    # ssh
      -Secure Shell Protocol安全外殼協議。
-     -一種ˋ加密ˋ的ˋ網路協議ˋ。
+     -一種加密的網路協議。
      -在不安全的網路中提供安全的傳輸環境。
      -常見用途是遠端登入系統。
      -保證非安全網路環境中資訊是加密完整可靠。
    # ftp 
      -File Transfer Protocol 檔案傳輸協議。
-     -用於在ˋ客戶端ˋ和ˋ伺服器ˋ之間進行檔案傳輸。
+     -用於在客戶端和伺服器間進行檔案傳輸。
      -有極高的延時。
      -是一個8位元的客戶端-伺服器協定。
      -有主動和被動模式。
    # sftp
      -Secure File Transfer Protocol安全文件傳輸協議。
-     -是SSH 的ˋ2.0 版ˋ
-     -可以通過可靠的ˋ數據流ˋ提供檔案的ˋ訪問、ˋ傳輸ˋ和ˋ管理ˋ。
-     -提供ˋ安全ˋ的ˋ文件傳輸ˋ功能。
+     -是SSH 的2.0 版。
+     -通過可靠的數據流提供檔案的訪問、傳輸和管理。
+     -提供安全的文件傳輸功能。
      -利用 SSH，故也稱為 安全殼檔案傳輸協定。
    # smtp
      -Simple Mail Transfer Protocol 簡單郵件傳輸協議 
@@ -102,7 +109,7 @@
    # SNMP
      - Simple Network Management Protocol簡單網路管理協議。
      -可以支援網路管理系統。
-     -由一組網路管理的標準組成。
+     -一組網路管理的標準組成。
      -含一個應用層協定、資料庫模式，和一組資料物件。
      -監測連接到網路上的裝置是否有引起管理上關注的情況。
 ## 簡述底下傳輸層協定(英文全名與簡單功能說明):
@@ -115,7 +122,7 @@
    # UDP
      -User Datagram Protocol 用戶數據報協議
      -提供資料的不可靠傳遞。
-     -簡單的面向資料包的通信協議
+     -簡單的面向資料包的通信協議。
      -為網絡層和應用層提供接口。
      -適用於不必執行錯誤檢查和糾正的應用程式。
    # reliable(可靠的) vs unreliable(不可靠的)
